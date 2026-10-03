@@ -1,6 +1,6 @@
-type OrderTotalsProps ={
+//type OrderTotalsProps ={
     
-}
+//}
 
 
 export default function OrderTotals() {
